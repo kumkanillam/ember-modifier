@@ -4,7 +4,8 @@
 
 
 
-
+## Modified for dist creation with resolutions
+Changed in package.json
 
 ## v4.2.0 (2024-07-04)
 
